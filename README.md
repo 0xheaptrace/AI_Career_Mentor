@@ -11,3 +11,27 @@ AI Career Mentor Chatbot is a conversational, agentic AI application designed to
 - 📅 Personalized 30–60–90 day learning roadmap
 - 🛡️ Graceful fallback mechanism when LLM API is unavailable
 - ⚖️ Ethical & responsible AI design (no data storage, no bias amplification)
+
+# How to Run the Project
+**1. Clone the Repository**
+git clone https://github.com/0xheaptrace/AI_Career_Mentor.git
+cd AI_Career_Mentor
+
+**2. Install Dependencies**
+pip install -r requirements.txt
+
+**3. Set API Key (Perplexity)**
+export PERPLEXITY_API_KEY="your_api_key_here"
+(Use setx on Windows)
+
+**4. Launch the Notebook**
+jupyter notebook notebooks/ai_agent.ipynb
+
+**5. Use the Chatbot**
+- Upload a resume (optional)
+- Enter skills manually (optional)
+- Select domain and role
+- Start chatting with the AI career mentor
+
+
+# - By Dhruv
