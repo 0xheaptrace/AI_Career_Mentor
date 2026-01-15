@@ -2,12 +2,12 @@
 AI Career Mentor Chatbot is a conversational, agentic AI application designed to help students and early-career professionals assess their career readiness through natural language interaction. The system allows users to upload resumes, input skills manually, select target domains and roles, and engage in an ongoing conversation with an AI mentor that analyzes strengths, identifies skill gaps, and provides personalized guidance along with structured 30–60–90 day learning roadmaps. Built using Python, ipywidgets, resume parsing tools, and a Large Language Model (Perplexity API), the project demonstrates practical application of AI for social impact and aligns with UN SDG 8: Decent Work and Economic Growth by promoting skill development, employability, and equitable access to career guidance.
 
 # Key Features
-💬 Free-form conversational chatbot (ChatGPT-style interaction)
-📄 Resume upload support (PDF parsing)
-✍️ Manual skill input for flexibility
-🎯 Domain & role-based guidance using a structured knowledge base
-🧠 Context-aware AI reasoning with conversation memory
-📊 Skill gap analysis & readiness scoring
-📅 Personalized 30–60–90 day learning roadmap
-🛡️ Graceful fallback mechanism when LLM API is unavailable
-⚖️ Ethical & responsible AI design (no data storage, no bias amplification)
+- 💬 Free-form conversational chatbot (ChatGPT-style interaction)
+- 📄 Resume upload support (PDF parsing)
+- ✍️ Manual skill input for flexibility
+- 🎯 Domain & role-based guidance using a structured knowledge base
+- 🧠 Context-aware AI reasoning with conversation memory
+- 📊 Skill gap analysis & readiness scoring
+- 📅 Personalized 30–60–90 day learning roadmap
+- 🛡️ Graceful fallback mechanism when LLM API is unavailable
+- ⚖️ Ethical & responsible AI design (no data storage, no bias amplification)
