@@ -18,14 +18,14 @@ AI Career Mentor Chatbot is a conversational, agentic AI application designed to
 - cd AI_Career_Mentor
 
 **2. Install Dependencies**
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 **3. Set API Key (Perplexity)**
-export PERPLEXITY_API_KEY="your_api_key_here"
+- export PERPLEXITY_API_KEY="your_api_key_here"
 (Use setx on Windows)
 
 **4. Launch the Notebook**
-jupyter notebook notebooks/ai_agent.ipynb
+- jupyter notebook notebooks/ai_agent.ipynb
 
 **5. Use the Chatbot**
 - Upload a resume (optional)
