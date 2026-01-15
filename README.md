@@ -14,8 +14,8 @@ AI Career Mentor Chatbot is a conversational, agentic AI application designed to
 
 # How to Run the Project
 **1. Clone the Repository**
-git clone https://github.com/0xheaptrace/AI_Career_Mentor.git
-cd AI_Career_Mentor
+- git clone https://github.com/0xheaptrace/AI_Career_Mentor.git
+- cd AI_Career_Mentor
 
 **2. Install Dependencies**
 pip install -r requirements.txt
