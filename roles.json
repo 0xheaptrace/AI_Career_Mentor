@@ -1,0 +1,177 @@
+{
+  "Cybersecurity": {
+    "SOC Analyst": [
+      "Networking", "Linux", "SIEM", "Incident Response",
+      "Log Analysis", "Python", "Threat Intelligence"
+    ],
+    "Penetration Tester": [
+      "Linux", "Networking", "Web Security",
+      "OWASP", "Burp Suite", "Python", "CTFs"
+    ],
+    "Digital Forensics Analyst": [
+      "File Systems", "Disk Forensics",
+      "Memory Forensics", "Autopsy", "Python", "OSINT"
+    ],
+    "Cloud Security Engineer": [
+      "Cloud Platforms", "IAM", "Networking",
+      "Linux", "Security Best Practices"
+    ]
+  },
+
+  "Software Engineering": {
+    "Backend Developer": [
+      "Python", "Java", "APIs",
+      "Databases", "System Design", "Git"
+    ],
+    "Frontend Developer": [
+      "HTML", "CSS", "JavaScript",
+      "React", "UI UX", "Accessibility"
+    ],
+    "Full Stack Developer": [
+      "Frontend", "Backend",
+      "Databases", "APIs", "Git"
+    ],
+    "Mobile App Developer": [
+      "Android", "iOS",
+      "Flutter", "React Native", "UI Design"
+    ]
+  },
+
+  "Artificial Intelligence & Machine Learning": {
+    "ML Engineer": [
+      "Python", "Machine Learning",
+      "Statistics", "Data Structures",
+      "Model Deployment", "MLOps"
+    ],
+    "AI Researcher": [
+      "Linear Algebra", "Probability",
+      "Deep Learning", "Research Writing",
+      "PyTorch"
+    ],
+    "Data Engineer": [
+      "Python", "SQL",
+      "ETL Pipelines", "Big Data", "Cloud Platforms"
+    ]
+  },
+
+  "Data Science & Analytics": {
+    "Data Analyst": [
+      "Python", "SQL",
+      "Statistics", "Data Visualization", "Excel"
+    ],
+    "Data Scientist": [
+      "Machine Learning", "Statistics",
+      "Python", "Data Wrangling", "Visualization"
+    ],
+    "Business Intelligence Analyst": [
+      "SQL", "Dashboards",
+      "Data Modeling", "Business Metrics"
+    ]
+  },
+
+  "Cloud & DevOps": {
+    "Cloud Engineer": [
+      "AWS", "Azure", "Linux",
+      "Networking", "Cloud Architecture"
+    ],
+    "DevOps Engineer": [
+      "CI CD", "Docker",
+      "Kubernetes", "Linux", "Monitoring"
+    ],
+    "Site Reliability Engineer": [
+      "System Reliability",
+      "Automation", "Monitoring", "Linux"
+    ]
+  },
+
+  "Healthcare & Well-being": {
+    "Health Data Analyst": [
+      "Python", "Statistics",
+      "Healthcare Data", "Ethics", "Visualization"
+    ],
+    "Clinical AI Assistant": [
+      "AI Ethics", "NLP",
+      "Healthcare Standards", "Python"
+    ],
+    "Public Health Researcher": [
+      "Epidemiology", "Statistics",
+      "Data Analysis", "Research Methods"
+    ]
+  },
+
+  "Education & Learning": {
+    "EdTech Developer": [
+      "Python", "Web Development",
+      "Learning Science", "AI Tools"
+    ],
+    "Curriculum Designer": [
+      "Instructional Design",
+      "Assessment Design", "Educational Technology"
+    ],
+    "Online Course Creator": [
+      "Content Design",
+      "Pedagogy", "Multimedia Tools"
+    ]
+  },
+
+  "Sustainability & Climate": {
+    "Climate Data Analyst": [
+      "Python", "Climate Science",
+      "Data Analysis", "Visualization"
+    ],
+    "Sustainability Consultant": [
+      "Sustainability Metrics",
+      "Policy Analysis", "Reporting", "Data Interpretation"
+    ],
+    "Environmental Researcher": [
+      "Environmental Science",
+      "Data Collection", "Analysis", "Research Writing"
+    ]
+  },
+
+  "Business & Management": {
+    "Business Analyst": [
+      "Requirement Analysis",
+      "Stakeholder Communication",
+      "Data Analysis", "Documentation"
+    ],
+    "Product Manager": [
+      "Product Strategy",
+      "User Research", "Roadmapping", "Communication"
+    ],
+    "Operations Manager": [
+      "Process Optimization",
+      "Resource Planning", "Leadership"
+    ]
+  },
+
+  "Research & Academia": {
+    "Research Assistant": [
+      "Research Methodology",
+      "Data Analysis", "Academic Writing", "Python"
+    ],
+    "PhD Aspirant (STEM)": [
+      "Advanced Mathematics",
+      "Programming", "Research Papers", "Critical Thinking"
+    ],
+    "Scientific Writer": [
+      "Technical Writing",
+      "Literature Review", "Citation Standards"
+    ]
+  },
+
+  "Creative & Digital Media": {
+    "UI UX Designer": [
+      "User Research",
+      "Wireframing", "Prototyping", "Design Tools"
+    ],
+    "Content Strategist": [
+      "Content Planning",
+      "SEO", "Audience Analysis", "Writing"
+    ],
+    "Digital Marketing Analyst": [
+      "Analytics Tools",
+      "Campaign Analysis", "SEO", "Data Interpretation"
+    ]
+  }
+}
